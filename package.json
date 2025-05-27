@@ -10,10 +10,11 @@
   "keywords": [],
   "author": "Martin Salinas",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "dependencies": {
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
+    "mongodb": "^6.16.0",
     "mongoose": "^8.15.0"
   },
   "devDependencies": {
